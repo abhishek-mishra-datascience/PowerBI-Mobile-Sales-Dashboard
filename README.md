@@ -44,9 +44,9 @@ Date table used for time intelligence calculations.
 ## 📊 Dashboard Pages
 
 ### 1. Executive Dashboard
+<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/55cb7dbb-ceaf-47a4-aaa1-327b296409d9" />
 
 Provides an overview of:
-
 - Total Sales
 - Total Quantity Sold
 - Total Transactions
@@ -60,6 +60,7 @@ Provides an overview of:
 ---
 
 ### 2. Month-To-Date (MTD) Report
+<img width="1860" height="906" alt="image" src="https://github.com/user-attachments/assets/982abe92-dc3c-4d04-bb70-72227c16a769" />
 
 Tracks cumulative sales performance throughout the month.
 
@@ -70,11 +71,11 @@ Key Metric:
 ---
 
 ### 3. Same Period Last Year (SPLY)
+<img width="1865" height="910" alt="image" src="https://github.com/user-attachments/assets/d3af6310-b44f-44b0-bc56-eadc84ca42a3" />
 
 Compares current sales with the same period from the previous year.
 
 Key Metrics:
-
 - Total Sales
 - Same Period Last Year Sales
 - Year-over-Year Comparison
@@ -84,7 +85,6 @@ Key Metrics:
 ## 📈 Key DAX Measures
 
 ### Total Sales
-
 ```DAX
 Total_Sales =
 SUMX(
